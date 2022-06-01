@@ -281,7 +281,7 @@ JsonPowerDB is equally Easy and Fast when used with Server Side programming like
 
    * **Overview of Form**
    
-![Screenshot 2022-06-01 133205](https://user-images.githubusercontent.com/88444976/171357055-9ade0c8b-a3d2-47c5-8d72-d1f18c6f7670.png)
+![Screenshot 2022-06-01 135830](https://user-images.githubusercontent.com/88444976/171362033-342a7993-aafa-4c5d-8e77-b662a300b1c0.png)
    
    * **Initial Database** 
    
@@ -289,7 +289,8 @@ JsonPowerDB is equally Easy and Fast when used with Server Side programming like
  
    * **Submitting the form** 
 
-![Screenshot 2022-06-01 133729](https://user-images.githubusercontent.com/88444976/171358182-e54b4892-bbe3-4046-9c3d-8a2733786058.png)
+![Screenshot 2022-06-01 140112](https://user-images.githubusercontent.com/88444976/171362354-cc8bca91-612c-4054-b209-c6f3097fed6f.png)
+
 
 * **Database after submitting the form**
 
