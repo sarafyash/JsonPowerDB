@@ -33,7 +33,7 @@ JsonPowerDB is equally Easy and Fast when used with Server Side programming like
 * Real time application for data analytics.
 * Live working HTML templates.
 
-![Alt text]("C:\Users\saraf\Desktop\Screenshot 2022-06-01 131157.png"?raw=true "Title")
+![Screenshot 2022-06-01 131157](https://user-images.githubusercontent.com/88444976/171356557-be4985f4-507e-4d3a-99b5-f1bccb6eeb8a.png)
 
 ## JsonPowerDB API Commands
 
@@ -276,6 +276,26 @@ JsonPowerDB is equally Easy and Fast when used with Server Side programming like
 
 </html>
 ```
+
+### Screenshots of Form Created.
+
+   * **Overview of Form**
+   
+![Screenshot 2022-06-01 133205](https://user-images.githubusercontent.com/88444976/171357055-9ade0c8b-a3d2-47c5-8d72-d1f18c6f7670.png)
+   
+   * **Initial Database** 
+   
+![Screenshot 2022-06-01 133437](https://user-images.githubusercontent.com/88444976/171357458-b0435a87-3f5c-4848-99d7-b62e3a7c8c20.png)
+ 
+   * **Submitting the form** 
+
+![Screenshot 2022-06-01 133729](https://user-images.githubusercontent.com/88444976/171358182-e54b4892-bbe3-4046-9c3d-8a2733786058.png)
+
+* **Database after submitting the form**
+
+![Screenshot 2022-06-01 134652](https://user-images.githubusercontent.com/88444976/171359581-c2d54146-3417-4359-aed7-80fb8168aec7.png)
+
+
 
 ## References 
 
