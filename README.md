@@ -33,6 +33,8 @@ JsonPowerDB is equally Easy and Fast when used with Server Side programming like
 * Real time application for data analytics.
 * Live working HTML templates.
 
+![Alt text]("C:\Users\saraf\Desktop\Screenshot 2022-06-01 131157.png"?raw=true "Title")
+
 ## JsonPowerDB API Commands
 
 >IML (JsonPowerDB Index Manipulation Language) for Inserting , Deleting/Removing and Updating a record in Json data.
@@ -274,3 +276,11 @@ JsonPowerDB is equally Easy and Fast when used with Server Side programming like
 
 </html>
 ```
+
+## References 
+
+   * https://learn.login2explore.com/course/view.php?id=7
+   * https://login2explore.com/jpdb/
+   * https://github.com/BeAgarwal/JsonPowerDB
+   * https://github.com/dbader/readme-template
+   * https://github.com/prateek-mehra/JsonPowerDB
