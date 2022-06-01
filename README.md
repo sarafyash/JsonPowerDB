@@ -91,7 +91,7 @@ JsonPowerDB is equally Easy and Fast when used with Server Side programming like
 }
 ```
 
->IRL (JsonPowerDB Index Retrieval Language) - For Retrieve Json data.
+>IRL (JsonPowerDB Index Retrieval Language) - For Retrieval of Json data.
 
 
 * **Http method : POST**
