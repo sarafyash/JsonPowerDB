@@ -301,6 +301,7 @@ JsonPowerDB is equally Easy and Fast when used with Server Side programming like
 
    * https://learn.login2explore.com/course/view.php?id=7
    * https://login2explore.com/jpdb/
+   * https://login2explore.com/jpdb/docs.html
    * https://github.com/BeAgarwal/JsonPowerDB
    * https://github.com/dbader/readme-template
    * https://github.com/prateek-mehra/JsonPowerDB
